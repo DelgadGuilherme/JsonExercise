@@ -1,0 +1,33 @@
+{   
+    "id" : 1,
+    "imagem_simbolo_url" : "http://localhost",
+    "nome" : "categoria 1",
+    "descricao" : "esta é a categoria 1",
+    "administrador" : {
+        "id" : 1,
+        "nome_completo" : "administrador 1",
+        "senha" : "123456789",
+        "data_ultima_atualizacao": "2020-05-15T20:48-03:00",
+        "data_cadastro" : "2020-05-15T20:48-03:00"
+    },
+    "produtos" :[
+      {
+        "id" : 1,
+        "nome" : "produto 1",
+        "descricao" : "descricao produto 1",
+        "foto_url" : "http://localhost",
+        "data_ultima_atualizacao": "2020-05-15T20:48-03:00",
+        "data_cadastro" : "2020-05-15T20:15-03:00",
+        "valor" : 10.0
+      },
+      {
+        "id" : 2,
+        "nome" : "produto 2",
+        "descricao" : "descricao produto 2",
+        "foto_url" : "http://localhost",
+        "data_ultima_atualizacao": "2020-05-15T20:48-03:00",
+        "data_cadastro" : "2020-05-15T15:48-03:00",
+        "valor" : 80.0
+      }
+      ]
+}

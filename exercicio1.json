@@ -1,0 +1,32 @@
+
+[
+    {   
+        "id" : 1,
+        "imagem_simbolo_url" : "http://localhost",
+        "nome" : "categoria 1",
+        "descricao" : "esta é a categoria 1",
+        "administrador" : {
+            "id" : 1,
+            "nome_completo" : "administrador 1",
+            "senha" : "123456789",
+            "data_ultima_atualizacao": "2020-05-15T20:48",
+            "data_cadastro" : "2020-05-15T20:48"
+        }
+    },
+    {
+        "id" : 2,
+        "imagem_simbolo_url" : "http://localhost",
+        "nome" : "categoria 2",
+        "descricao" : "esta é a categoria 2",
+        "administrador" : {
+            "id" : 2,
+            "nome_completo" : "administrador 2",
+            "senha" : "123456789",
+            "data_ultima_atualizacao": "2020-05-15T20:48",
+            "data_cadastro" : "2020-05-15T20:48"
+        }
+    }
+]
+
+
+

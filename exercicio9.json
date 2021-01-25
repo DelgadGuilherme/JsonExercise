@@ -1,0 +1,31 @@
+{
+    "foto_url" : "http://localhost:5000",
+    "data_nascimento" : "2020-05-12T17:14:30-03:00",
+    "cpf" : "196.572.309-80",
+    "id" : 1,
+    "nome_completo" : "Joao jorge",
+    "email" : "jaojorge@gmail.com",
+    "senha": "123",
+    "data_ultimo_atualizacao" : null,
+    "data_cadastro" : "2020-05-12T17:18:10-03:00",
+    "endereco" : {
+        "id" : 1,
+        "rua" : "rua 007",
+        "numero" : 0,
+        "cep" : "27700000",
+        "complemento" : "casa 1",
+        "telefone" : 40028622,
+        "bairro" : "centro",
+        "data_cadastro" : "2020-05-12T17:18:10-03:00",
+        "data_ultimo_atualizacao" : null,
+        "cidade" : {
+            "id" : 1,
+            "nome" : "vassvegas",
+            "estado" : {
+                "id" : 1,
+                "sigla" : "RJ",
+                "nome" : "ErreJota"
+            }
+        }
+    }
+}

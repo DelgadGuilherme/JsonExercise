@@ -1,0 +1,9 @@
+{
+    "id" : 1,
+    "nome" : "produto 1",
+    "descricao" : "descricao produto 1",
+    "foto_url" : "http://localhost",
+    "data_ultima_atualizacao": "2020-05-15T20:48-03:00",
+    "data_cadastro" : "2020-05-15T20:15-03:00",
+    "valor" : 10.0
+}
